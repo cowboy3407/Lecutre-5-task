@@ -63,13 +63,7 @@ z-index: 2;
     margin: 0px 32px 40px 32px;
 }
 
-div {
-    background-color: #2C7DFA;
-    flex-shrink: 0;
-    width: 288px;
-    height: 288px;
- 
-}
+
 
 .Oval {
  position: absolute;
