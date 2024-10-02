@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: lightgray;
+    padding: 152px 0px 151px 0px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
+        
+}
+
+.img {
+    width: 160px;
+    height: 160px;
+    margin: 64px;
+    background-color: #2C7DFA;
+z-index: 2;
+}
+
+.h1 {
+    color: #1F314F;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    width: 288px;
+    height: 56px;
+    background-color: white;
+    margin: 24px 16px 16px 16px;
+}
+
+.p {
+    width: 256px;
+    color: #7D889E;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.188px;
+    text-align: center;
+    background-color: white;
+    margin: 0px 32px 40px 32px;
+}
+
+div {
+    background-color: #2C7DFA;
+    flex-shrink: 0;
+    width: 288px;
+    height: 288px;
+ 
+}
+
+.Oval {
+ position: absolute;
+ margin: 16px 16px 193px 16px;
+ z-index: 1;
+
+}  
+
+
+
+
+
