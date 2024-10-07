@@ -72,6 +72,16 @@ z-index: 2;
 
 }  
 
+@media only screen and (max-width: 600px){
+
+.box {
+margin-right: 32px;
+margin-left: 32px;
+    
+}
+
+
+}
 
 
 
